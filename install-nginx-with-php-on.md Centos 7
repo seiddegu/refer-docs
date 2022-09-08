@@ -1,0 +1,6 @@
+# Link to Refer
+https://tecadmin.net/install-nginx-php-fpm-centos-8/
+
+# if you face error : permission denied on error log of nginx to connct to php-fpm , please do this 
+
+user@hostName# chown root:nginx [php-fpm-socket-path]
