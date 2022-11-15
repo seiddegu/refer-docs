@@ -3,5 +3,4 @@
 # setsebool -P httpd_can_network_connect=1
 ** then restart httpd to be on the safe side
 
-
-https://megamorf.gitlab.io/2020/06/10/troubleshoot-nginx-access-forbidden-error-caused-by-selinux/
+https://medium.com/@getpagespeed/nginx-selinux-configuration-74938ef08670
